@@ -1,0 +1,4 @@
+2022-09-25T14:46:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\cva\wp-content\plugins\ecommerce-product-catalog\functions\capabilities.php en la línea 3
+
+2022-09-25T14:46:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\cva\wp-includes\functions.php en la línea 4540
+
